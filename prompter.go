@@ -1,4 +1,4 @@
-package bubbly
+package bubble
 
 import (
 	"context"
